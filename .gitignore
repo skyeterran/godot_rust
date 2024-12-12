@@ -1,0 +1,21 @@
+# Godot
+**/.godot/
+godot/android/
+**.tmp
+**.*~
+
+# Rust
+rust/target
+Cargo.lock
+
+# MacOS
+**/.DS_Store
+
+# Blender
+*.blend1
+
+# Obsidian
+notes/.obsidian/workspace.json
+
+# VSCode
+.vscode/settings.json
